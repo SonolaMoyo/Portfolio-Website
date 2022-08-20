@@ -1,5 +1,5 @@
 ## My Portfolio Website
 
-Name: Sonola Moyosoluwalorun Odunayo
-Software Developer/Engineer
-2years
+Name: Sonola Moyosoluwalorun Odunayo <br>
+Software Developer/Engineer <br>
+2years of programming experience
